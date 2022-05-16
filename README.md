@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hurair17
-- 👀 I’m interested in any thing except coding
+- 👀 Love for Coding
 - 🌱 I’m currently learning ML and Web Development
 - 💞️ I’m looking to collaborate in php
 - 📫 reach me through hurairmohammad17@gmail.com
