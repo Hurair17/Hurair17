@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Hurair17
 - 👀 Love for Coding
 - 🌱 I’m currently learning ML and Web Development
-- 💞️ I’m looking to collaborate in php
+- 💞️ I’m Working in Flutter and Python
+- 💞️ Also done Some Work in C++ PHP JavaScript.
 - 📫 reach me through hurairmohammad17@gmail.com
 
 <!---
