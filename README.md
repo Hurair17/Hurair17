@@ -16,10 +16,10 @@ This is Engr. Hurair Mohammad, a young tech enthusiast and a learner.I am a Comp
 
 
 <a href="https://github.com/Hurair17">
-  <img align="center" height = "250px" src="https://github-readme-stats.vercel.app/api?username=Hurair17&show_icons=true&theme=cobalt" />
+  <img align="center" height = "200px" src="https://github-readme-stats.vercel.app/api?username=Hurair17&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/Hurair17">
-  <img align="center" height = "250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5" />
+  <img align="center" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6" />
 </a> 
 
 
