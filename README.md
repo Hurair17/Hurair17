@@ -3,10 +3,6 @@
 The green dots on my GitHub Profile represent my journey 🏃‍♂️.
 This is Engr. Hurair Mohammad, a young tech enthusiast and a learner.I am a Computer Systems Engineer. I have a passion for learning different things,languages and frameworks. And in pursuit of learning, I experiment with things and sometimes get failed and sometimes succeed. I have deep interest in ***Data Structures, Web development, Computer Vision and Mobile App Development***. As far my development journey is concerned i have started to explore Cross Platform App Development in shape of **Flutter/Dart**. Along with that i have a experience with different programming languages **JavaScript/Node.js, C/C++, Python**. I have tried **Firebase & MySql** as databases as well. Also work on REST APIs in different domain. Create Rest API with AWS **dynamo db** also use **AWS for website hosting load balancing and aws deep racer** etc.
 
-## Tech Stack 💻
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
-
 ## Tech Stack :computer:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -18,7 +14,7 @@ This is Engr. Hurair Mohammad, a young tech enthusiast and a learner.I am a Comp
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://i.pinimg.com/564x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"></code>
+
 
 [1]: http://www.github.com/Hurair17
 [2]: linkedin.com/in/hurair-mohammad-3253861b1/
@@ -36,9 +32,10 @@ This is Engr. Hurair Mohammad, a young tech enthusiast and a learner.I am a Comp
 
 
 Outside of [GitHub](https://github.com/Hurair17/)
-[![Linkedin: Hurair](https://img.shields.io/badge/-Hurair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hurair-mohammad-3253861b1/)
+![Linkedin: Hurair](https://img.shields.io/badge/-Hurair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hurair-mohammad-3253861b1/)
 [![GitHub mrcse](https://img.shields.io/github/followers/mrcse?label=follow&style=social)](https://github.com/Hurair17)
-
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Hurair17" aria-label="Follow @Hurair17 on GitHub">Follow @Hurair17</a>
 ### Open Source Contributor from [Pakistan](https://en.wikipedia.org/wiki/Pakistan) 💚  
 
 
