@@ -36,7 +36,7 @@ Outside of [GitHub](https://github.com/Hurair17/)
 [![GitHub mrcse](https://img.shields.io/github/followers/Hurair17?label=follow&style=social)](https://github.com/Hurair17)
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Hurair17" aria-label="Follow @Hurair17 on GitHub">Follow @Hurair17</a>
-### Open Source Contributor from [Pakistan](https://en.wikipedia.org/wiki/Pakistan) 💚  
+<!-- ### Open Source Contributor from [Pakistan](https://en.wikipedia.org/wiki/Pakistan) 💚  --->
 
 
 
